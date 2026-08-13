@@ -1,0 +1,4 @@
+interface:
+  display_name: "Offer 起草"
+  short_description: "从脱敏 offer 要素生成可复核的 offer 草稿包与待确认队列，只产草稿不发送。"
+  default_prompt: "使用 $hr-offer-drafter 基于脱敏的岗位、职级、地点、薪酬组成和条款，生成一份 offer 草稿包：现金首年总包口径、股权单列、占位 offer letter 正文、给招聘经理的谈判提示和待确认队列。"

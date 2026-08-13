@@ -1,0 +1,5 @@
+Offer 起草 / hr-offer-drafter
+
+本项目参考 anthropics/knowledge-work-plugins 中公开的 human-resources/skills/draft-offer。
+上游采用 Apache License 2.0；本项目保留来源说明，并以 Apache License 2.0 发布。
+本项目新增中文工作流、本地校验脚本、通用 Agent 契约、隐私与人工复核边界、视觉材料与测试。
