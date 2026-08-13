@@ -1,5 +1,12 @@
 # Offer 起草
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Agent%20Skill-agentskills.io-2F6BFF" alt="Agent Skill">
+  <img src="https://img.shields.io/badge/license-Apache%202.0-3fb950" alt="License Apache 2.0">
+  <img src="https://img.shields.io/badge/python-%3E%3D3.8-3572A5" alt="Python >=3.8">
+  <img src="https://img.shields.io/badge/works%20with-Codex%20|%20Claude%20|%20Cursor%20|%20TRAE-555" alt="Works with major agents">
+</p>
+
 `hr-offer-drafter`
 
 一个可本地运行、可复核、面向所有 Agent 的中文 offer 起草 Skill。它从脱敏的 offer 要素生成薪酬包口径、录用条款、占位 offer letter 正文、给招聘经理的谈判提示和发送前的待确认队列；飞书或 HRIS 只是可选只读输入源。它只产草稿，不代发 offer。
