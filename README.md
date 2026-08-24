@@ -12,6 +12,12 @@
 
 一个可本地运行、可复核、面向所有 Agent 的中文 offer 起草 Skill。它从脱敏的 offer 要素生成薪酬包口径、录用条款、占位 offer letter 正文、给招聘经理的谈判提示和发送前的待确认队列；飞书或 HRIS 只是可选只读输入源。它只产草稿，不代发 offer。
 
+<p align="center">
+  <img src="assets/hr-offer-drafter-demo.gif" alt="脱敏 offer 要素 → 可复核的 offer 草稿包（Agent 只产草稿，不代发）" width="900" />
+</p>
+
+<p align="center"><sub>脱敏 offer 要素 → 可复核的 offer 草稿包（Agent 只产草稿，不代发）</sub></p>
+
 ## 价值与适用场景
 
 offer 阶段最容易出问题的地方有两个：不同口径的钱被加成一个数字，以及草稿被当成可以直接发送的定稿。这个 Skill 把基础薪资、目标奖金、签字费和股权按固定口径拆开，把带宽位置和审批状态标清楚，帮助 HR、招聘经理和薪酬团队围绕同一份草稿讨论。
