@@ -1,6 +1,7 @@
 <h1 align="center">Offer 起草</h1>
 
 <p align="center">
+  <a href="https://github.com/TongyiDai/hr-offer-drafter/actions/workflows/ci.yml"><img src="https://github.com/TongyiDai/hr-offer-drafter/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/Agent%20Skill-agentskills.io-2F6BFF" alt="Agent Skill">
   <img src="https://img.shields.io/badge/license-Apache%202.0-3fb950" alt="License Apache 2.0">
   <img src="https://img.shields.io/badge/python-%3E%3D3.8-3572A5" alt="Python >=3.8">
